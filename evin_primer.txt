@@ -5,6 +5,12 @@ kika anja
 
 Ovo je primer.
 SMILE
+<<<<<<< HEAD
+joj
+joooooooooooooooooooooooj nzm
+tesko
+=======
 jojjhghgfh
 
 Kika Anja tandem
+>>>>>>> main
