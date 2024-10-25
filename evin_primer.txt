@@ -1,5 +1,16 @@
+
+Ovo je primer. uishui
+kika anja
+>vezbe
+
 Ovo je primer.
 SMILE
+<<<<<<< HEAD
 joj
 joooooooooooooooooooooooj nzm
 tesko
+=======
+jojjhghgfh
+
+Kika Anja tandem
+>>>>>>> main
